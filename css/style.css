@@ -161,7 +161,7 @@ time, mark, audio, video {
 @media screen and (min-width: 768px) {
     /* BODY */
         body{
-            background-image: url("/img/background-image.jpg");
+            background-image: url("../img/background-image.jpg");
         }
     /* BODY */
 
