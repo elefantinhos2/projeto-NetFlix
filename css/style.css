@@ -38,6 +38,7 @@ time, mark, audio, video {
 /* BODY */
     body{
         background-color: #000000;
+        background-image: url("../img/background-image.jpg");
 
     }
 /* BODY */
