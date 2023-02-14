@@ -14,4 +14,4 @@ A ideia do projeto foi criada pela Kenzy Academy, e programado por mim durante o
 qual fui aluno. Esse foi um dos meus primeiros projetos, e apesar de simples mostra importância de uma
 estrutura organizado no HTML para trabalhar com os seletores no CSS.
 
-Para dar uma olhada no resultado Final: <a href="https://elefantinhos2.github.io/projeto-NetFlix/" target="_blank">
+Para dar uma olhada no resultado Final: <a href="https://elefantinhos2.github.io/projeto-NetFlix/" target="_blank">Click Aqui</a>
